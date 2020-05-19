@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e341966-05cf-4f86-b45a-9365894da6e9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/aula7calculadora1.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula7calculadora1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula7televisao.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula7televisao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,12 +13,17 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/meu_app.py">
+        <entry file="file://$PROJECT_DIR$/aula9.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="12" selection-start-line="3" selection-end-line="3" selection-end-column="12" />
+            <state relative-caret-position="125">
+              <caret line="47" column="16" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="16" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/teste.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -50,6 +54,8 @@
         <option value="$PROJECT_DIR$/aula8_contador_letras.py" />
         <option value="$PROJECT_DIR$/aula8_importacao.py" />
         <option value="$PROJECT_DIR$/aula8_lambda.py" />
+        <option value="$PROJECT_DIR$/notas.txt" />
+        <option value="$PROJECT_DIR$/aula9.py" />
       </list>
     </option>
   </component>
@@ -124,7 +130,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.aula8_lambda">
+  <component name="RunManager" selected="Python.aula9">
     <configuration name="aula7calculadora1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso_PythonDio" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,27 +144,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula7calculadora1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="aula7televisao" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Curso_PythonDio" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula7televisao.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,13 +215,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="aula9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Curso_PythonDio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula9.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.aula9" />
         <item itemvalue="Python.aula8_lambda" />
         <item itemvalue="Python.aula8_importacao" />
         <item itemvalue="Python.aula8_contador_letras" />
         <item itemvalue="Python.aula7calculadora1" />
-        <item itemvalue="Python.aula7televisao" />
       </list>
     </recent_temporary>
   </component>
@@ -257,12 +263,12 @@
     <frame x="6" y="33" width="1346" height="688" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2517321" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25154322" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49923548" visible="true" weight="0.35672516" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49923548" visible="true" weight="0.35515872" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -358,6 +364,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="3" column="12" selection-start-line="3" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teste.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notas.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="47" column="16" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="16" />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,4 @@
+Rafael,10,7,6,8
+Jose,9,8,7,5
+Claudio,9,8,7,5
+Mario,6,7,9,10
