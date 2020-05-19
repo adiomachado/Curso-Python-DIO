@@ -15,7 +15,7 @@ def trabalhando_com_datetime():
     data_string = '02/03/2020 12:40:03'
     data_convertida = datetime.strptime(data_string, '%d/%m/%Y %H:%M:%S')
     print(data_convertida)
-    nova_data = data_convertida - timedelta(days=365, hours=3, minutes=10)
+    nova_data = data_convertida - timedelta(days=365, hours=3, minutes=10) #calculo com data, usar timedelta
     print(nova_data)
 
 def trabalhando_com_date():
