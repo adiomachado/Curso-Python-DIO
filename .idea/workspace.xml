@@ -11,21 +11,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aula11.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="77" selection-start-line="2" selection-start-column="77" selection-end-line="2" selection-end-column="77" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/aula11_personalizar_excessao.py">
+        <entry file="file://$PROJECT_DIR$/aula12.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+            <state relative-caret-position="103">
+              <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -63,6 +54,7 @@
         <option value="$PROJECT_DIR$/aula10.py" />
         <option value="$PROJECT_DIR$/aula11.py" />
         <option value="$PROJECT_DIR$/aula11_personalizar_excessao.py" />
+        <option value="$PROJECT_DIR$/aula12.py" />
       </list>
     </option>
   </component>
@@ -93,6 +85,11 @@
             </path>
             <path>
               <item name="Curso-Python-DIO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="Curso-Python-DIO" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
             <path>
@@ -110,7 +107,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="IntelliLang.Configuration" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -137,7 +134,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.aula11_personalizar_excessao">
+  <component name="RunManager" selected="Python.aula12">
     <configuration name="aula10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso_PythonDio" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -201,7 +198,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula8_lambda" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="aula12" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso_PythonDio" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -213,7 +210,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula8_lambda.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -245,11 +242,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.aula12" />
         <item itemvalue="Python.aula11_personalizar_excessao" />
         <item itemvalue="Python.aula11" />
         <item itemvalue="Python.aula10" />
         <item itemvalue="Python.aula9" />
-        <item itemvalue="Python.aula8_lambda" />
       </list>
     </recent_temporary>
   </component>
@@ -266,6 +263,15 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="6" y="33" width="1346" height="688" extended-state="0" />
     <editor active="true" />
@@ -279,7 +285,7 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936507" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936507" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50076455" side_tool="true" type="SLIDING" weight="0.32936507" />
@@ -407,8 +413,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/aula11_personalizar_excessao.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        <state relative-caret-position="95">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
